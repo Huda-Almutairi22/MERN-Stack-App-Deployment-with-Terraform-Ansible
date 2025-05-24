@@ -1,4 +1,4 @@
-#  Week 11 – MERN Stack App Deployment with Terraform & Ansible
+#  MERN Stack App Deployment with Terraform & Ansible
 
 ##  Project Goal
 
